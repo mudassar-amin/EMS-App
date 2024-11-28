@@ -1,0 +1,17 @@
+D:\CodewithHarry\Employee_Directory\Employee_Directory\bin\Debug\Employee_Directory.exe.config
+D:\CodewithHarry\Employee_Directory\Employee_Directory\bin\Debug\Employee_Directory.exe
+D:\CodewithHarry\Employee_Directory\Employee_Directory\bin\Debug\Employee_Directory.pdb
+D:\CodewithHarry\Employee_Directory\Employee_Directory\obj\Debug\Employee_Directory.csproj.AssemblyReference.cache
+D:\CodewithHarry\Employee_Directory\Employee_Directory\obj\Debug\Employee_Directory.Employees.resources
+D:\CodewithHarry\Employee_Directory\Employee_Directory\obj\Debug\Employee_Directory.login.resources
+D:\CodewithHarry\Employee_Directory\Employee_Directory\obj\Debug\Employee_Directory.Properties.Resources.resources
+D:\CodewithHarry\Employee_Directory\Employee_Directory\obj\Debug\Employee_Directory.csproj.GenerateResource.cache
+D:\CodewithHarry\Employee_Directory\Employee_Directory\obj\Debug\Employee_Directory.csproj.CoreCompileInputs.cache
+D:\CodewithHarry\Employee_Directory\Employee_Directory\obj\Debug\Employee_Directory.exe
+D:\CodewithHarry\Employee_Directory\Employee_Directory\obj\Debug\Employee_Directory.pdb
+D:\CodewithHarry\Employee_Directory\Employee_Directory\bin\Debug\Guna.UI2.dll
+D:\CodewithHarry\Employee_Directory\Employee_Directory\obj\Debug\Employee_Directory.csproj.CopyComplete
+D:\CodewithHarry\Employee_Directory\Employee_Directory\obj\Debug\Employee_Directory.Departments.resources
+D:\CodewithHarry\Employee_Directory\Employee_Directory\obj\Debug\Employee_Directory.Salaries.resources
+D:\CodewithHarry\Employee_Directory\Employee_Directory\bin\Debug\EmDb.mdf
+D:\CodewithHarry\Employee_Directory\Employee_Directory\bin\Debug\EmDb_log.ldf
